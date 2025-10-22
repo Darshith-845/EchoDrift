@@ -1,0 +1,3 @@
+/home/darshith/EchoDrift/build/CMakeFiles/EchoDrift.dir
+/home/darshith/EchoDrift/build/CMakeFiles/edit_cache.dir
+/home/darshith/EchoDrift/build/CMakeFiles/rebuild_cache.dir
